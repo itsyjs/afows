@@ -1,6 +1,6 @@
 {
   "name": "@itsy/afows",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "array from object with strings (separated by spaces)",
   "type": "module",
   "types": "./main.d.ts",
