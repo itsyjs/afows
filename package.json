@@ -1,0 +1,20 @@
+{
+  "name": "@itsy/afows",
+  "version": "1.0.0",
+  "description": "array from object with strings (separated by spaces)",
+  "type": "module",
+  "types": "./main.d.ts",
+  "exports": {
+    ".": {
+      "types": "./main.d.ts",
+      "import": "./main.js"
+    }
+  },
+  "scripts": {
+    "lint": "eslint --fix ."
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "@itsy/lint": "^1.0.14"
+  }
+}
